@@ -12,3 +12,4 @@ d cent
 lucano
 vivaa
 bax
+dela
