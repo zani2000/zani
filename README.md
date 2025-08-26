@@ -15,3 +15,4 @@ bax
 dela
 riraa
 delvin
+lawan
