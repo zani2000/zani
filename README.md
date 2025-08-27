@@ -16,3 +16,4 @@ dela
 riraa
 delvin
 lawan
+nazar
