@@ -18,3 +18,4 @@ delvin
 lawan
 nazar
 masha
+salah
