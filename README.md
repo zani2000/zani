@@ -20,3 +20,4 @@ nazar
 masha
 salah
 soren
+chaw
