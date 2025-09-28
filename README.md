@@ -44,3 +44,4 @@ ATH
 ena
 snap
 rira
+monad mainnet
