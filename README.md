@@ -45,3 +45,4 @@ ena
 snap
 rira
 monad mainnet
+voria
