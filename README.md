@@ -46,3 +46,4 @@ snap
 rira
 monad mainnet
 voria
+tal
