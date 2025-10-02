@@ -47,3 +47,4 @@ rira
 monad mainnet
 voria
 tal
+amlash
