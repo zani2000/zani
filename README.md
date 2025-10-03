@@ -48,3 +48,4 @@ monad mainnet
 voria
 tal
 amlash
+monad
