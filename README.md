@@ -49,3 +49,4 @@ voria
 tal
 amlash
 monad
+talus
