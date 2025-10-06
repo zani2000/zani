@@ -50,3 +50,4 @@ tal
 amlash
 monad
 talus
+zama
