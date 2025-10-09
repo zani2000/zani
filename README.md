@@ -54,3 +54,4 @@ zama
  pass
 abs
 xdc
+zama
