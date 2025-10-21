@@ -65,3 +65,4 @@ rare
 hodaaa
 fidility
 dignity
+sentient
