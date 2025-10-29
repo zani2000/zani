@@ -71,3 +71,4 @@ toyota
 recovery
 farcaster
 ghechar
+lexuse
