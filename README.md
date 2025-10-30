@@ -72,3 +72,4 @@ recovery
 farcaster
 ghechar
 lexuse
+rider
