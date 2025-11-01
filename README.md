@@ -74,3 +74,4 @@ ghechar
 lexuse
 rider
 salaf
+golden cross
