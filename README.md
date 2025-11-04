@@ -76,3 +76,4 @@ rider
 salaf
 golden cross
 btc.d
+forign
