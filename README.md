@@ -95,3 +95,4 @@ rayls airdrop
 update apps
 sellin cars
 change Xdc
+waiting for sent TGE
