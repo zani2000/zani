@@ -99,3 +99,4 @@ waiting for sent TGE
 monad is coming
 rayls airdrop
 molah
+kaalat
