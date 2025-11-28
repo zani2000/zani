@@ -100,3 +100,4 @@ monad is coming
 rayls airdrop
 molah
 kaalat
+sui passport
