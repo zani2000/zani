@@ -101,3 +101,4 @@ rayls airdrop
 molah
 kaalat
 sui passport
+lucano
