@@ -114,3 +114,4 @@ render
 landcruise
 attack
 legacy
+rubby score
