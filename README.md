@@ -115,3 +115,4 @@ landcruise
 attack
 legacy
 rubby score
+pharos 
