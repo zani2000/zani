@@ -116,3 +116,4 @@ attack
 legacy
 rubby score
 pharos 
+telegram
