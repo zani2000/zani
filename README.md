@@ -117,3 +117,4 @@ legacy
 rubby score
 pharos 
 telegram
+pharo scan
