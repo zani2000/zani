@@ -118,3 +118,4 @@ rubby score
 pharos 
 telegram
 pharo scan
+relay on urself
