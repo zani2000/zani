@@ -120,3 +120,4 @@ telegram
 pharo scan
 relay on urself
 eth price
+xrp post
