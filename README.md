@@ -131,3 +131,4 @@ lexus
 special day
 Ava media
 lever
+shib price
