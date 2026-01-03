@@ -133,3 +133,4 @@ Ava media
 lever
 shib price
 reverse ripo
+barcelona
