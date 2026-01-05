@@ -135,3 +135,4 @@ shib price
 reverse ripo
 barcelona
 first
+reversal
